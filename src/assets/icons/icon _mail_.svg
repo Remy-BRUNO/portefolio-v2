@@ -1,0 +1,16 @@
+<svg width="56" height="41" viewBox="0 0 56 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="&#240;&#159;&#166;&#134; icon &#34;mail&#34;">
+<path id="Vector" d="M15.5 13L28 21.75L40.5 13" stroke="url(#paint0_linear_207_230)" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M3 33V8C3 5.23857 5.23857 3 8 3H48C50.7615 3 53 5.23857 53 8V33C53 35.7615 50.7615 38 48 38H8C5.23857 38 3 35.7615 3 33Z" stroke="url(#paint1_linear_207_230)" stroke-width="5"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_207_230" x1="18.5847" y1="13.8003" x2="36.8864" y2="37.1862" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6443EB"/>
+<stop offset="1" stop-color="#A7A6E1" stop-opacity="0.54"/>
+</linearGradient>
+<linearGradient id="paint1_linear_207_230" x1="9.16943" y1="6.20122" x2="77.6036" y2="49.9238" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6443EB"/>
+<stop offset="1" stop-color="#A7A6E1" stop-opacity="0.54"/>
+</linearGradient>
+</defs>
+</svg>
