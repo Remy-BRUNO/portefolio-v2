@@ -56,43 +56,43 @@ const Skills = () => {
         <img
           id="logo-html"
           className="logo"
-          src="./src/assets/logos/logoHtml.png"
+          src="/logos/logoHtml.png"
           alt="logo HTML"
         />
         <img
           id="logo-css"
           className="logo"
-          src="./src/assets/logos/logoCss.png"
+          src="/logos/logoCss.png"
           alt="logo CSS"
         />
         <img
           id="logo-js"
           className="logo"
-          src="./src/assets/logos/logoJs.png"
+          src="/logos/logoJs.png"
           alt="logo javascript"
         />
         <img
           id="logo-react"
           className="logo"
-          src="./src/assets/logos/logoReact.png"
+          src="/logos/logoReact.png"
           alt="logo React"
         />
         <img
           id="logo-github"
           className="logo"
-          src="./src/assets/logos/logoGithub.png"
+          src="/logos/logoGithub.png"
           alt="logo Github"
         />
         <img
           id="logo-sql"
           className="logo"
-          src="./src/assets/logos/logoSql.png"
+          src="/logos/logoSql.png"
           alt="logo SQL"
         />
         <img
           id="logo-figma"
           className="logo"
-          src="./src/assets/logos/logoFigma.png"
+          src="/logos/logoFigma.png"
           alt="logo Figma"
         />
       </div>
