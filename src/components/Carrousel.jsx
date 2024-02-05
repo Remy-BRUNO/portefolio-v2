@@ -4,7 +4,7 @@ import "react-responsive-carousel/lib/styles/carousel.css"
 const Carrousel = () => {
   return (
     <section id="projects" className="section">
-      <h3>mes projet</h3>
+      <h3>mes projets</h3>
       <Carousel>
         {projects.map((project) => {
           const { id, image, name, url, description } = project

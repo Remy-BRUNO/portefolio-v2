@@ -9,8 +9,8 @@ export const profil = {
   secondName: "BRUNO",
   image: profilPict,
   job: "Développeur web et web mobile",
-  description: `Boujour, je m’appel BRUNO Rémy originaire de Chambéry en savoie.
-Mordu d’informatique, j’ai commencé à apprendre divers langages informatiques (HTML, CSS et Javascript) en autodidacte et ai été heurté au mur des connaissance.Ce qui m’a conduit à m’inscrire à la formation développeur web et web mobile au seins de FOREACH Academy. Polyvalent, je maîtrise les différentes étapes techniques de la création d’un site ou d’une application web ; de la compréhension des besoins utilisateurs, au développement frontend et backend en passant par la maintenance.
+  description: `Boujour, je m’appelle BRUNO Rémy originaire de Chambéry en Savoie.
+Mordu d’informatique, j’ai commencé à apprendre divers langages informatiques (HTML, CSS et Javascript) en autodidacte et ai été heurté au mur des connaissances.Ce qui m’a conduit à m’inscrire à la formation développeur web et web mobile au sein de FOREACH Academy. Polyvalent, je maîtrise les différentes étapes techniques de la création d’un site ou d’une application web ; de la compréhension des besoins utilisateurs, au développement frontend et backend en passant par la maintenance.
 `,
 }
 export const skills = {
